@@ -1,2 +1,3 @@
 # ai-puzzles
-Solving fun a simple puzzles with Artificial Intelligence.
+Solving fun and simple puzzles with Artificial Intelligence.
+
